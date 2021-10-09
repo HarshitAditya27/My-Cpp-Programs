@@ -1,4 +1,7 @@
-// C++ program to display Fibonacci Series up to n number of terms 
+// C++ program to display Fibonacci Series up to n number of terms  
+
+//Fibonacci Series: Fn = Fn-1 + Fn-2
+
 #include <iostream>
 using namespace std;
 int main() {
